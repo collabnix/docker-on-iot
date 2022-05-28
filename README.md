@@ -11,9 +11,9 @@
 
 A Curated List of Docker developers tools and tutorials on IoT 
 
-# IoET Planet - IoT, Docker & AI
 
-- [Raspberry Pi](https://github.com/collabnix/ioetplanet/blob/master/raspberrypi/README.md)
+##  [Raspberry Pi](https://github.com/collabnix/ioetplanet/blob/master/raspberrypi/README.md)
+
   - [Installing Docker Engine 19.03 on Raspberry Pi 3 in 2 Minutes](https://collabnix.com/installing-docker-18-09-3-on-raspberry-pi-in-2-minutes/)
   - [Docker Workshop on Raspberry Pi - UPES](https://collabnix.com/docker-workshop-on-iot-university-of-petroleum-and-energy-studies-dehradun/)
   - [Unboxing 3.5” Touch Screen RPi LCD for Raspberry Pi 3 in 2 Minutes](https://collabnix.com/rpi-lcd-configuration-for-raspberry-pi-3/)
@@ -33,7 +33,8 @@ A Curated List of Docker developers tools and tutorials on IoT
   - [The Rise of Pico: At the Grace Hopper Celebration India](https://collabnix.com/the-rise-of-pico-at-the-grace-hopper-celebration-india/)
 
 
-- [NVIDIA Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/README.md)
+## [NVIDIA Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/README.md)
+
   - [Object Detection with Yolo Made Simple using Docker on NVIDIA Jetson Nano](https://collabnix.com/object-detection-with-yolo-using-docker-19-03-on-nvidia-jetson-nano/)
   - [Multi Node k3s Cluster on NVIDIA Jetsin Nano in 5 Minutes](https://collabnix.com/multi-node-k3s-cluster-on-nvidia-jetson-nano-in-5-minutes/)
   - [Running Minecraft inside Docker Container](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/minecraft/README.md)
@@ -43,14 +44,14 @@ A Curated List of Docker developers tools and tutorials on IoT
   - [How to enable RDP on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/enable-rdp.md)
 
 
-- [NVIDIA Jetson AGX Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md)
+## [NVIDIA Jetson AGX Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md)
     - [Getting Started](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#getting-started-with-jetson-agx-xavier)
     - [Identifying the Jetson Board](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#identify-the-jetson-board)
     - [Running Docker on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#installing-docker)
     - [Running JTOP on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#installing-jtop)
     - [Running DeepStreaming on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#running-the-deepstreaming-container)
 
-- [Pine64](https://github.com/collabnix/ioetplanet/blob/master/pine64/overview/README.md)
+## [Pine64](https://github.com/collabnix/ioetplanet/blob/master/pine64/overview/README.md)
 
     - [An Overview of $200 Pinebook Pro ARM Laptop](https://github.com/collabnix/ioetplanet/blob/master/pine64/overview/README.md) 
     - [A First look at Docker on Pinebook Pro](https://github.com/collabnix/ioetplanet/blob/master/pine64/docker/install.md)
