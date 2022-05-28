@@ -1,1 +1,17 @@
+title: Docker Developer Tools for IoT Edge devices
+description: >- # this means to ignore newlines until "baseurl:"
+  Docker on IoT Edge devices - A Curated List of Developers Tools and Tutorials on IoT Edge
+show_downloads: true
+twitter_username: collabnix
+github_username: collabnix
+youtube: c/Collabnix
+post_search: true
+google_analytics:
 theme: jekyll-theme-leap-day
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
