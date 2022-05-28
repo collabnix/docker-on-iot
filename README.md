@@ -1,5 +1,6 @@
-# docker-on-iot
-A Curated List of Docker on IoT 
+# Docker on IoT Edge Devices
+
+A Curated List of Docker developers tools and tutorials on IoT 
 
 # IoET Planet - IoT, Docker & AI
 
