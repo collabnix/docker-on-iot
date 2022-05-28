@@ -1,3 +1,12 @@
+
+![stars](https://img.shields.io/github/stars/collabnix/docker-on-iot)
+![forks](https://img.shields.io/github/forks/collabnix/docker-on-iot)
+![issues](https://img.shields.io/github/issues/collabnix/docker-on-iot)
+![GitHub contributors](https://img.shields.io/github/contributors/collabnix/docker-on-iot)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.docker-on-iot)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
+
 # Docker on IoT Edge Devices
 
 A Curated List of Docker developers tools and tutorials on IoT 
