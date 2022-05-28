@@ -1,6 +1,6 @@
 ## Running Docker on IoT Edge Platform
 
-Popular IoT Edge devices like Raspberry Pi and  Jetson Nano are now plenty powerful to run a regular Linux distro, have a Docker engine installed, and run your containers without much overhead. Undoubtedly, most of the devices out there are more powerful than the small VMs provided by major cloud services. IoT applications target a wide variety of device platforms. During prototyping and early phases of development, IoT projects are often developed using generic microcontroller-based development boards or single-board computers (SBCs) like the Raspberry Pi. Running Docker on IoT devices offers advantages by bringing containers to the edge. 
+Popular IoT Edge devices like Raspberry Pi and  Jetson Nano are now plenty powerful to run a regular Linux distro, have a Docker engine installed, and run your containers without much overhead. Undoubtedly, most of the devices out there are more powerful than the small VMs provided by major cloud services. IoT applications target a wide variety of device platforms. 
 
 Here's a curated list of developer tools and tutorials that shows how containers help in accelerating apps on the IoT Edge devices:
 
@@ -24,7 +24,7 @@ Here's a curated list of developer tools and tutorials that shows how containers
   - [Turn Your Raspberry Pi into Out-of-band Monitoring Device using Docker](https://collabnix.com/turn-your-raspberry-pi-into-out-of-band-monitoring-device-using-docker/)
   - [Building the first CentOS 7.2 ARM docker image on Raspberry Pi 3](https://collabnix.com/running-docker-on-raspberry-pi-3-with-centos-7-as-a-base-image/)
   - [Docker 1.12.1 on Raspberry Pi 3 in 5 minutes](https://collabnix.com/docker-1-12-1-on-raspberry-pi-3-in-5-minutes/)
-  - [The Rise of Pico: At the Grace Hopper Celebration India](https://collabnix.com/the-rise-of-pico-at-the-grace-hopper-celebration-india/)
+  - [The Rise of Pico: At the Grace Hopper Celebration India](https://collabnix.com/the-rise-of-pico-at-the-grace-hopper-celebration-india/)<br>
 
 
 - [NVIDIA Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/README.md)
@@ -34,7 +34,7 @@ Here's a curated list of developer tools and tutorials that shows how containers
   - [How to run Docker Compose on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/README.md#installing-docker-compose-on-nvidia-jetson-nano)
   - [Pico goes Cloudless: Running RTMP & Nginx for Video Streaming using Docker on Jetson Nano locally](https://collabnix.com/running-rtmp-nginx-for-video-streaming-using-docker-on-jetson-nano/)
   - [Redis running inside Docker container on NVIDIA Jetson Nano](https://collabnix.com/running-redis-inside-docker-container-on-jetson-nano/)
-  - [How to enable RDP on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/enable-rdp.md)
+  - [How to enable RDP on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/enable-rdp.md)<br>
 
 
 - [NVIDIA Jetson AGX Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md)
@@ -42,7 +42,7 @@ Here's a curated list of developer tools and tutorials that shows how containers
     - [Identifying the Jetson Board](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#identify-the-jetson-board)
     - [Running Docker on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#installing-docker)
     - [Running JTOP on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#installing-jtop)
-    - [Running DeepStreaming on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#running-the-deepstreaming-container)
+    - [Running DeepStreaming on Xavier](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonxavier/README.md#running-the-deepstreaming-container)<br>
 
 - [Pine64](https://github.com/collabnix/ioetplanet/blob/master/pine64/overview/README.md)
 
