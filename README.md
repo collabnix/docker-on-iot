@@ -9,7 +9,7 @@
 
 # Docker on IoT Edge Devices
 
-A Curated List of Docker developers tools and tutorials on IoT 
+A Curated List of Docker tutorials on IoT 
 
 
 ##  [Raspberry Pi](https://github.com/collabnix/ioetplanet/blob/master/raspberrypi/README.md)
